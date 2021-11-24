@@ -1,1 +1,1 @@
-# True-COVID-19-positive-cases-priediction
+# True-COVID-19-positive-cases-prediction
